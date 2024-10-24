@@ -37,3 +37,12 @@ for i in rennips(data, desc="Counting...", mode="SIMPLE"):
 - Works with any iterable
 - Support for iterables without known length
 
+
+
+## Roadmap
+
+Future features and improvements planned for Rennips:
+
+### Short-term Goals
+- [ ] Big mode: Large-scale spinner display for better visibility in terminal
+- [ ] Manual spinner control: Support for non-iterable progress tracking, allowing start/stop/update operations
