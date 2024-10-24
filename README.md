@@ -1,6 +1,8 @@
 # rennips
 
-A simple and lightweight progress "**spinner**" for Python iterables, similar to tqdm.
+A minimalist Python progress **spinner** that provides a simple visual feedback for iterative processes with normal and simple display modes.
+
+\> "*rennips*" is simply 'spinner' spelled backwards. 
 
 
 
