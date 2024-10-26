@@ -57,7 +57,7 @@ class Rennips:
         sys.stdout.flush()
 
     def close(self):
-        # sys.stdout.write('\r')
+        sys.stdout.write('\r')
         sys.stdout.write(' Finished.')
         sys.stdout.flush()
 

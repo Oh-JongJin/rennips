@@ -4,6 +4,8 @@ A minimalist Python progress **spinner** that provides a simple visual feedback 
 
 \> "*rennips*" is simply 'spinner' spelled backwards. 
 
+You can check out rennips on [PyPI](https://pypi.org/project/rennips/0.1.0/)
+
 
 
 ## Installation
