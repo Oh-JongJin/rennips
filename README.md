@@ -4,14 +4,14 @@ A minimalist Python progress **spinner** that provides a simple visual feedback 
 
 \> "*rennips*" is simply 'spinner' spelled backwards. 
 
-You can check out rennips on [PyPI](https://pypi.org/project/rennips/0.1.0/)
+Check out on [**PyPI**](https://pypi.org/project/rennips/0.1.0/)
 
 
 
 ## Installation
 
 ```bash
-pip install progressive-spinner
+pip install rennips
 ```
 
 
@@ -20,7 +20,7 @@ pip install progressive-spinner
 
 ```python
 import time
-from src.rennips import rennips
+from rennips import rennips
 
 
 data = [x for x in range(50)]
@@ -32,7 +32,7 @@ for i in rennips(data, desc="Counting...", mode="SIMPLE"):
 
 ## Features
 
-- Simple spinner animation (|/-\)
+- Simple spinner animation (**|, /, -, \\**)
 - Progress percentage
 - Item count
 - Elapsed time

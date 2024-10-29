@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="rennips",
-    version="0.1.0",
+    version="0.1.1",
     author="Oh Jongjin",
     author_email="5jx2oh@gmail.com",
     description="A minimalist Python progress spinner for iterative processes",
@@ -25,7 +25,7 @@ setup(
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
     ],
-    python_requires=">=3.6",
+    python_requires=">=3.7",
     install_requires=[],
     keywords="rennips, progress, spinner, terminal, cli, progress-bar",
 )
