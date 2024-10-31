@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "rennips"
-version = "0.1.1"
+version = "0.2.0"
 description = "A minimalist Python progress spinner for iterative processes"
 readme = "README.md"
 authors = [{ name = "Oh Jongjin", email = "5jx2oh@gmail.com" }]

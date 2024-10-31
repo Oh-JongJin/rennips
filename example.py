@@ -19,7 +19,6 @@ elif args.big:
 else:
     mode = "normal"
 
-print(f"Selected mode: {mode}")
 
 data = [x for x in range(50)]
 for i in rennips(data, desc="Counting...", mode=mode):

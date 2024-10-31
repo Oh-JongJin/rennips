@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="rennips",
-    version="0.1.1",
+    version="0.2.0",
     author="Oh Jongjin",
     author_email="5jx2oh@gmail.com",
     description="A minimalist Python progress spinner for iterative processes",
