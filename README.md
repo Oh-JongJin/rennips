@@ -4,7 +4,7 @@ A minimalist Python progress **spinner** that provides a simple visual feedback 
 
 \> "*rennips*" is simply 'spinner' spelled backwards. 
 
-Check out on [**PyPI**](https://pypi.org/project/rennips/0.1.0/)
+Check out on [**PyPI**](https://pypi.org/project/rennips/)
 
 
 
@@ -64,5 +64,5 @@ for i in rennips(data, desc="Counting...", mode=mode):
 Future features and improvements planned for Rennips:
 
 ### Short-term Goals
-- [x] Big mode: ~~Large-scale spinner display for better visibility in terminal~~ Big spinner animation
+- [x] Big mode: ~~Large-scale spinner display for better visibility in terminal~~
 - [ ] Manual spinner control: Support for non-iterable progress tracking, allowing start/stop/update operations
