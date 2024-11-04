@@ -16,7 +16,22 @@ pip install rennips
 
 
 
-## Usage
+## Example
+
+```bash
+> python example.py -h
+usage: example.py [-h] [-n | -s | -b]
+
+rennips mode selector
+
+options:
+  -h, --help    show this help message and exit
+  -n, --normal  Run normal mode
+  -s, --simple  Run simple mode
+  -b, --big     Run big mode
+```
+
+
 
 ```python
 import time
@@ -66,3 +81,7 @@ Future features and improvements planned for Rennips:
 ### Short-term Goals
 - [x] Big mode: ~~Large-scale spinner display for better visibility in terminal~~
 - [ ] Manual spinner control: Support for non-iterable progress tracking, allowing start/stop/update operations
+
+### Long-term Goals
+
+- [ ] 
